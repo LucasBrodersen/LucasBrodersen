@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Lucas Brodersen 👋
 
 
-- 🔭 I’m currently working on Ericsson Ordersk Managamento
+- 🔭 I’m currently working on Ericsson Ordersk Managament.
 - 🌱 I’m currently learning Computer Engineering, Unity.
 - 👯 I’m looking to collaborate on softwares and games development.
 - 🤔 I’m looking for help with programming topics.
