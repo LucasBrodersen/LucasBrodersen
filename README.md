@@ -6,8 +6,6 @@
 - 👯 I’m looking to collaborate on softwares and games development.
 - 🤔 I’m looking for help with programming topics.
 - 💬 Ask me about engineering related topics (Solid Works, Python, C, C++, Calculus)
-- 📫 How to reach me: lucasbrodersen@gmail.com
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: Retired MMORPG player.
 
 <div style="display: inline_block"><br>
@@ -27,7 +25,7 @@
   
 </div>
 
-
+<!---
  <div>
   <a href="https://github.com/lucasbrodersen">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrodersen&layout=compact&langs_count=7&theme=dracula"/>
