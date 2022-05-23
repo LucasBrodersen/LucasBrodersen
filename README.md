@@ -1,8 +1,8 @@
 ### Hi there, I'm Lucas Brodersen 👋
 
 
-- 🔭 I’m currently working on developing my Unity skills.
-- 🌱 I’m currently learning Computer Engineering, Unity.
+- 🔭 I’m currently working on developing my Web Dev skills.
+- 🌱 I’m currently learning Computer Engineering, Web Dev.
 - 👯 I’m looking to collaborate on softwares and games development.
 - 🤔 I’m looking for help with programming topics.
 - 💬 Ask me about engineering related topics (Solid Works, Python, C, C++, Calculus)
