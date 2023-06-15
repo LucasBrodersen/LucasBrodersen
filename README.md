@@ -1,12 +1,6 @@
 ### Hi there, I'm Lucas Brodersen 👋
 
-
-- 🔭 I’m currently working on developing my Web Dev skills.
-- 🌱 I’m currently learning Computer Engineering, Web Dev.
-- 👯 I’m looking to collaborate on softwares and games development.
-- 🤔 I’m looking for help with programming topics.
-- 💬 Ask me about engineering related topics (Solid Works, Python, C, C++, Calculus)
-- ⚡ Fun fact: Retired MMORPG player.
+No so active on my personal repository these days.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-cpp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/cplusplus/cplusplus-plain.svg">
