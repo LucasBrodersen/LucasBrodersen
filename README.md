@@ -1,7 +1,5 @@
 ### Hi there, I'm Lucas Brodersen 👋
 
-No so active on my personal repository these days.
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-cpp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="Lucas-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-plain.svg">
